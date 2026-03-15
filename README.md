@@ -1,1 +1,1 @@
-# MAE---Masked-Autoencoders-Are-Scalable-Vision-Learners
+# MAE - Masked Autoencoders Are Scalable Vision Learners
